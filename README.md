@@ -13,7 +13,7 @@ O projeto tem como finalidade a implementação de uma HEAP se utilizando como b
 
 
 ### Como Compilar
-Abra o terminal ou prompt de comando e navegue até a pasta do arquivo que deseja executar, depois utilize este comando:
+Abra o terminal ou prompt de comando e navegue até a pasta do arquivo onde está o codigo que deseja executar, depois utilize este comando:
 
 <code>
 <span style="color: tomato">»</span> gcc -o trabalho12 Trabalho12.c main.c
