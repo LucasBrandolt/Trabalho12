@@ -2,6 +2,8 @@
 ## Sobre o projeto 
 O projeto tem como finalidade a implementação de uma HEAP se utilizando como base o arquivo heap.h que esta neste repositório tendo como funcionalidades: Adicionar, Remover elementos na HEAP
 
+**Obs:**A main.c é apenas um exemplo e o comportamento do codigo pode mudar de acordo com a mudança na main.
+
 ### Como Baixar 
   Baixe os arquivos do repositório diretamente pelo github ou pelo terminal utilizando :
   
